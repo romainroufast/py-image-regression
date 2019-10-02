@@ -1,0 +1,5 @@
+torchvision
+torchsummary
+numpy
+matplotlib
+flask
